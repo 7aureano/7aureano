@@ -2,7 +2,7 @@ Hi! I’m Laureano Banegas.
 
 I’m interested in computers, soccer, Formula One, and programming.
 
-I am currently a specialist at Apple, part time while attending Hunter College full-time, studying computer science.
+I am currently a specialist at Apple, while attending Hunter College full-time, studying computer science.
 
 I’m looking to collaborate on beginner C++ or Python projects to build my resume and further advance my programming skills.
 
